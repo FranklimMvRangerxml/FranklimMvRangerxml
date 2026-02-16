@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Franklim Muñoz</h1>
 
 <p align="center">
-  <img src="./1768320353963.jpg" width="600"/>
+  <img src="./1768320353963.jpg" width="1000"/>
 </p>
 ---
 
