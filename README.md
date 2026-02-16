@@ -3,9 +3,6 @@
 <p align="center">
   <img src="./1768320353963.jpg" width="300"/>
 </p>
-
-<h3 align="center">🚀 Desarrollador Fullstack | Mobile | Cloud</h3>
-
 ---
 
 ## 🧠 Sobre mí
