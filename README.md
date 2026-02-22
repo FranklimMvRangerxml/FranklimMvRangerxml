@@ -6,12 +6,7 @@
 ---
 
 ## 🧠 Sobre mí
-
-💻 Profesional en Ingeniería de Sistemas  
-🚀 Desarrollador Full-Stack apasionado por la innovación tecnológica  
-📊 Enfoque en soluciones escalables, cloud y arquitecturas modernas  
-⚡ Experiencia en backend, frontend, mobile y despliegues en producción  
-
+Mis inicios en la tecnología comenzaron hace cinco años y medio, formateando computadores y realizando mantenimiento preventivo y correctivo, incluyendo cambio de partes e instalación de programas. Posteriormente, avancé hacia el área de desarrollo de software. Mi primera experiencia fue en el SENA, donde me formé como tecnólogo en Análisis y Desarrollo de Software con enfoque en Java. Más adelante, continué mis estudios como tecnólogo en Sistemas, donde me homologaron materias cursadas en el SENA y culminé satisfactoriamente el programa. Actualmente soy Ingeniero de Sistemas graduado y cuento con tarjeta profesional, soltero pero con proyecciones comprar una casa y otras metas personales.
 ---
 
 ## 🛠️ Tecnologías Principales
@@ -31,6 +26,22 @@
 Visual Studio Code | Eclipse | IntelliJ IDEA | Android Studio  
 Visual Studio (.NET) | PyCharm | NetBeans | Xcode  
 
+---
+
+
+## 🧑‍💼 Experiencia Laboral
+
+Creado => online Player (Nextjs , nodejs ,typescript, oracle, tailwincss(Ai)) 
+link : https://onlineplayer.app/es
+
+Creado =>  Tasa por congestion (vite(react), mybatis)
+link: https://aplicaciones.cali.gov.co/tasaporcongestion/
+
+Creado => Eccomerce sombrillas(vuejs,postgres-sql,Quarkus)
+link : https://sombrillasapolo.com/collections/all 
+
+creado => chat (reply(online deploy) ,Nodejs, ejs,javascript)
+link: https://replit.com/@GASOLINAFULL/chatPortafolioWeb
 ---
 
 ## 🔄 Control de Versiones
@@ -71,29 +82,15 @@ AWS | Google Cloud Platform | Microsoft Azure | Firebase
 
 ---
 
-## 🧑‍💼 Experiencia Laboral
+- ALCALDIA DE SANTIAGO DE CALI 2025 ( Apache, Nginx , Node.js , Docker , programación reactiva,
+Concurrente y Paralela, Estructurada).
 
-### 🏛️ Alcaldía de Santiago de Cali
-- Desarrollo con React
-- Configuración y despliegue con Nginx
-- Node.js y Docker
-- Programación reactiva, concurrente y paralela
-- Arquitectura estructurada
 
-### ⚡ Emcali Servicios
-- Instalación y optimización de sistemas
-- Configuración BIOS/UEFI
-- Diagnóstico de hardware (RAM, discos, temperatura)
-- Formateo profesional y activación legal
-- Soporte técnico integral
-
-### 🎓 Sena y otros
-- Monitorías en:
-  - Variables y algoritmos
-  - Diagramas y pseudocódigo
-  - Arrays, vectores y matrices
-  - Fundamentos de programación
-
+- EMCALI SERVICIOS 2019 ( Crear USB booteable, Particionar discos correctamente, Configurar
+BIOS/UEFI Instalar drivers esenciales , Optimizar el sistema después del formateo ,Activación legal
+del sistema,Limpieza de hardware,Reparación de fallos comunes,Detección de problemas de
+temperatura, Diagnóstico de RAM con herramientas (MemTest),Diagnóstico de discos
+(CrystalDiskInfo))
 ---
 
 ## 📂 Proyectos y Colaboraciones
@@ -106,11 +103,18 @@ Node.js | FastAPI | React | MySQL | PHP | HTML | CSS | Java | Cloud
 
 ## 🎓 Educación
 
-🎓 Profesional en Ingeniería de Sistemas  
-💻 Técnico en Desarrollo de Software  
-📊 Innovación y Prospectiva  
+🎓 Tecnologo DE sistemas (aprobado) 
+💻 Técnico en desarrollo de software  (aprobado)
+🎓 Bachiller 
+
+## 🎓 Cursos
+💻 Desarrollador fullstack (Nextjs,rsBuild ,Antigravity nodejs, Quarkus, Ai, mysql,oracle)
+📊 Programacion orientada a objetos Java (netbeams, java, mysql, oracle)
+
+## 🎓 DIPLOMADOS Y SEMINARIOS
+📊 Innovación y prospectiva 
 🗄️ Bases de Datos & Big Data  
-🎓 Bachiller  
+
 
 ---
 
