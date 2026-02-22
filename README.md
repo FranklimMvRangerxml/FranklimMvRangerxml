@@ -106,4 +106,3 @@ Google Workspace | Word | Excel | PowerPoint
 
 ---
 
-<h3 align="center">⚡ “La tecnología es mejor cuando acerca a las personas.” ⚡</h3>
