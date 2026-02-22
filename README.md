@@ -9,24 +9,6 @@
 Mis inicios en la tecnología comenzaron hace cinco años y medio, formateando computadores y realizando mantenimiento preventivo y correctivo, incluyendo cambio de partes e instalación de programas. Posteriormente, avancé hacia el área de desarrollo de software. Mi primera experiencia fue en el SENA, donde me formé como tecnólogo en Análisis y Desarrollo de Software con enfoque en Java. Más adelante, continué mis estudios como tecnólogo en Sistemas, donde me homologaron materias cursadas en el SENA y culminé satisfactoriamente el programa. Actualmente soy Ingeniero de Sistemas graduado y cuento con tarjeta profesional, soltero pero con proyecciones comprar una casa y otras metas personales.
 ---
 
-## 🛠️ Tecnologías Principales
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,typescript,tailwind,java,spring,php,python,fastapi,mysql,postgres,mongodb,docker,kubernetes,nginx,linux,aws,gcp,azure,firebase" />
-</p>
-
----
-
-## 🧩 Entornos de Desarrollo (IDE)
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,androidstudio,visualstudio,pycharm,netbeans,xcode" />
-</p>
-
-Visual Studio Code | Eclipse | IntelliJ IDEA | Android Studio  
-Visual Studio (.NET) | PyCharm | NetBeans | Xcode  
-
----
 
 
 ## 🧑‍💼 Experiencia Laboral
@@ -99,24 +81,7 @@ Tecnologías utilizadas en proyectos reales:
 
 Node.js | FastAPI | React | MySQL | PHP | HTML | CSS | Java | Cloud
 
----
 
-## 🎓 Educación
-
-🎓 Tecnologo DE sistemas (aprobado) 
-💻 Técnico en desarrollo de software  (aprobado)
-🎓 Bachiller 
-
-## 🎓 Cursos
-💻 Desarrollador fullstack (Nextjs,rsBuild ,Antigravity nodejs, Quarkus, Ai, mysql,oracle)
-📊 Programacion orientada a objetos Java (netbeams, java, mysql, oracle)
-
-## 🎓 DIPLOMADOS Y SEMINARIOS
-📊 Innovación y prospectiva 
-🗄️ Bases de Datos & Big Data  
-
-
----
 
 ## 📊 Estadísticas GitHub
 
@@ -136,8 +101,7 @@ Google Workspace | Word | Excel | PowerPoint
 
 ## 🔗 Contacto
 
-📧 Email: ingenierorangerxmlv1@hotmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/franklim-de-j-m-60255b311/  
+📧 Email: f5extuniversal@gmail.com
 📱 WhatsApp: +57 302 213 03 74  
 
 ---
