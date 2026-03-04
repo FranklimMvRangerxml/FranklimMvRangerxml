@@ -17,7 +17,7 @@ Creador de Contenido
 
 **Ingeniero de Sistemas** con transporte (licencia para carro y moto), enfocado en el desarrollo de arquitecturas escalables y robustas. Aplica principios de **Programación Concurrente, Paralela, Estructurada, Reactiva** y **Patrones de Ordenamiento de Datos** para garantizar un código mantenible y eficiente. Amplio conocimiento en **Arquitectura de Software** para la estructuración de aplicaciones por capas y sólida experiencia en **microservicios**, lo que permite despliegues independientes, alta resiliencia y una evolución ágil. Experto en la gestión y procesamiento de grandes volúmenes de información para crear soluciones efectivas y de alto rendimiento.
 
-🔗 **Portafolio Algunos de mis prooyectos :** [frankliminfo.netlify.app](https://frankliminfo.netlify.app/)
+🔗 ** Algunos de mis proyectos :** [frankliminfo.netlify.app](https://frankliminfo.netlify.app/)
 
 ---
 
