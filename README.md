@@ -6,7 +6,7 @@
 ---
 
 ## 🧠 Sobre mí
-Mis inicios en la tecnología comenzaron hace cinco años y medio, formateando computadores y realizando mantenimiento preventivo y correctivo, incluyendo cambio de partes e instalación de programas. Posteriormente, avancé hacia el área de desarrollo de software. Mi primera experiencia fue en el SENA, donde me formé como tecnólogo en Análisis y Desarrollo de Software con enfoque en Java. Más adelante, continué mis estudios como tecnólogo en Sistemas, donde me homologaron materias cursadas en el SENA y culminé satisfactoriamente el programa. Actualmente soy Ingeniero de Sistemas graduado y cuento con tarjeta profesional, soltero pero con proyecciones comprar una casa y otras metas personales.
+Mis inicios en Programación comenzaron hace cinco años y medio, formateando computadores y realizando mantenimiento preventivo y correctivo, incluyendo cambio de partes e instalación de programas. Posteriormente, avancé hacia el área de desarrollo de software. Mi primera experiencia fue en el SENA, donde me formé como tecnólogo en Análisis y Desarrollo de Software con enfoque en Java. Más adelante, continué mis estudios como tecnólogo en Sistemas, donde me homologaron materias cursadas en el SENA y culminé satisfactoriamente el programa. Actualmente soy Ingeniero de Sistemas graduado y cuento con tarjeta profesional, soltero pero con proyecciones comprar una casa y otras metas personales.
 ---
 
 
