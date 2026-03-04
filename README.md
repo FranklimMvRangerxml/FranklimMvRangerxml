@@ -11,22 +11,6 @@ Mis inicios en Programación comenzaron hace cinco años y medio, formateando co
 
 
 
-## 🧑‍💼 Experiencia Laboral
-
-Creado => online Player (Nextjs , nodejs ,typescript, oracle, tailwincss(Ai)) 
-link : https://onlineplayer.app/es
-
-Creado =>  Tasa por congestion (vite(react), mybatis)
-link: https://aplicaciones.cali.gov.co/tasaporcongestion/
-
-Creado => Eccomerce sombrillas(vuejs,postgres-sql,Quarkus)
-link : https://sombrillasapolo.com/collections/all 
-
-creado => chat (reply(online deploy) ,Nodejs, ejs,javascript)
-link: https://replit.com/@GASOLINAFULL/chatPortafolioWeb
----
-
-## 🔄 Control de Versiones
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" />
@@ -62,19 +46,6 @@ MySQL | MariaDB | PostgreSQL | SQL Server | Oracle | MongoDB | SQLite
 
 AWS | Google Cloud Platform | Microsoft Azure | Firebase  
 
----
-
-- ALCALDIA DE SANTIAGO DE CALI 2025 ( Apache, Nginx , Node.js , Docker , programación reactiva,
-Concurrente y Paralela, Estructurada).
-
-
-- EMCALI SERVICIOS 2019 ( Crear USB booteable, Particionar discos correctamente, Configurar
-BIOS/UEFI Instalar drivers esenciales , Optimizar el sistema después del formateo ,Activación legal
-del sistema,Limpieza de hardware,Reparación de fallos comunes,Detección de problemas de
-temperatura, Diagnóstico de RAM con herramientas (MemTest),Diagnóstico de discos
-(CrystalDiskInfo))
----
-
 ## 📂 Proyectos y Colaboraciones
 
 Tecnologías utilizadas en proyectos reales:
@@ -101,7 +72,6 @@ Google Workspace | Word | Excel | PowerPoint
 
 ## 🔗 Contacto
 
-📧 Email: f5extuniversal@gmail.com
 📱 WhatsApp: +57 302 213 03 74  
 
 ---
