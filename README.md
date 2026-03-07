@@ -10,7 +10,7 @@
 
 🔗 ** Algunos de mis proyectos :** [frankliminfo.netlify.app](https://frankliminfo.netlify.app/)
 
-<h1 align="center">👋 Nota: Aqui solo estan algunos de los Repos ire actualizando pues Tengo mucha información , Debo revisar todos los proyectos, si necesitas realizar alguna pregunta en especifico con gusto la atendere.</h1>
+<h2 align="center">👋 Nota: Aqui solo estan algunos de los Repos en el repo que Dice todo esta detallado medianamente mis repos.</h1>
 
 
 
