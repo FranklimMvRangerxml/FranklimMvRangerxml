@@ -8,9 +8,9 @@
 💲Software Engineer (C#, java , typescript ,Python) ,Big Data Innovación(bases de datos , uml, casos de uso) , Seguridad informática y hardware (linux, mac, windows) , 🤖 Creador de contenido.
 
 
-🔗 ** Algunos de mis proyectos :** [frankliminfo.netlify.app](https://frankliminfo.netlify.app/)
 
-<h2 align="center">👋 Nota: En el Repositorio que dice  => "todo", esta detallado medianamente mis repos y colaboraciones con otros Devs</h1>
+
+<h2 align="center">👋 Nota:   => Aqui tengo algunos de los reposno todos. </h1>
 
 
 
