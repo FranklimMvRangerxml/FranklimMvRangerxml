@@ -10,7 +10,7 @@
 
 
 
-<h2 align="center">👋 Nota:   => Aqui tengo algunos de los reposno todos. </h1>
+<h2 align="center">👋 Nota:   => Aqui tengo algunos de los repos no todos. </h1>
 
 
 
